@@ -1,7 +1,7 @@
 #!/bin/bash
 set -ouex pipefail
 
-source /ctc/config
+source /ctx/config
 
 IFS=',' read -r -a apps <<< "$flatpaks"
 
