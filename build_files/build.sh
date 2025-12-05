@@ -2,7 +2,7 @@
 
 set -ouex pipefail
 
-source $CONFIG_FILE
+source /ctx/config
 
 if [[ "$debloater" == "true" ]]; then
     echo ">> Running debloater script"
