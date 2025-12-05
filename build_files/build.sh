@@ -11,5 +11,5 @@ fi
 
 if [[ -n "${flatpaks:-}" ]]; then
     echo ">> Running Flatpak installer"
-    bash /ctx/scripts/install-flatpak.sh
+    bash /ctx/scripts/flatpak_installer.sh
 fi
