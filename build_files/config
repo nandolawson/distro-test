@@ -1,2 +1,2 @@
 debloater=true
-flatpaks="com.google.Chrome,com.visualstudio.code,com.discordapp.Discord"
+flatpaks="com.google.Chrome,com.visualstudio.code,com.discordapp.Discord,info.febvre.Komikku"
